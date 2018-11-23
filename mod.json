@@ -11,5 +11,5 @@
 	"Manifest": [
         { "Type": "MechDef", "Path": "mech" },
 	    { "Type": "VehicleDef", "Path": "vehicle" }
-
+     ]
 }
